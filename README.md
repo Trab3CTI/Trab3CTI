@@ -2,7 +2,9 @@
 ⚡⚡ Um sistema de Fast Food funcional com design clean. ⚡⚡
 
 <br>
+
 ## 🚀 Objetivo do Projeto
+
 O objetivo desse projeto foi criar a ideia de um sistema de fast food funcional para melhorar nossas capacidades de desenvolvimento.
 O projeto possui um design clean feito com a finalidade de facilitar o acesso pra qualquer tipo de usuario.
 
