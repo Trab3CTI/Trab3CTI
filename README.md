@@ -1,10 +1,13 @@
 ## Bem Vindo ao GitHub do Projeto <strong>Panda Lanches</strong>👋
 
+
 Um sistema de Fast Food funcional com design clean.
+
 
 ## 🚀 Objetivo do Projeto
 O objetivo desse projeto foi criar a ideia de um sistema de fast food funcional para melhorar nossas capacidades de desenvolvimento.
 O projeto possui um design clean feito com a finalidade de facilitar o acesso pra qualquer tipo de usuario.
+
 
 <br>
 
@@ -18,7 +21,6 @@ O projeto possui um design clean feito com a finalidade de facilitar o acesso pr
 
 ## ⚡ Como Baixar o Projeto ?
 - <a href="https://github.com/Trab3CTI/panda-lanches-website-principal">Entre nesse link</a>, clique no botão Code e por ultimo escolha a opçao de Baixar em Zip.
-- 
 - ![imagem 3](https://user-images.githubusercontent.com/94136685/143333942-5b18fa8a-a964-410b-adc3-1cf6b79e24ba.png)
 
 <br>
