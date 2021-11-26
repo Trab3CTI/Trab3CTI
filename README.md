@@ -1,4 +1,6 @@
+* Como o Github foi criado apenas para esse projeto, o README.md do usuario serve como o README.md do projeto em geral !
 ## Bem Vindo ao GitHub do Projeto <strong>Panda Lanches</strong>👋
+<br>
 ⚡⚡ Um sistema de Fast Food funcional com design clean. ⚡⚡
 
 <br>
